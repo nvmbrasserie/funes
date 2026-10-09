@@ -14,6 +14,7 @@ subjects:
   urls:
   - https://www.adb.org/who-we-are/organization/board-directors
   - https://www.adb.org/who-we-are/organization
+  - https://www.adb.org/who-we-are/organization/board-governors
 - name: Asian Infrastructure Investment Bank
   urls:
   - https://www.aiib.org/en/about-aiib/governance/senior-management/index.html
@@ -26,6 +27,7 @@ subjects:
 - name: Caribbean Development Bank
   urls:
   - https://www.caribank.org/about-us/bank-organisation/board-directors
+  - https://www.caribank.org/about-us/bank-organisation/board-governors
   - https://www.caribank.org/about-us/bank-organisation
 - name: European Bank for Reconstruction and Development
   urls:
@@ -36,22 +38,31 @@ subjects:
   urls:
   - https://www.eib.org/en/about/governance-and-structure/statutory-bodies/board-directors/index
   - https://www.eib.org/en/about/governance-and-structure/statutory-bodies/management-committee/index
+  - https://www.eib.org/en/about/governance-and-structure/statutory-bodies/board-governors/index
 - name: Inter-American Development Bank
   urls:
   - https://www.iadb.org/en/who-we-are/how-we-are-organized/board-executive-directors/executive-directors-and-alternates
   - https://www.iadb.org/en/who-we-are/how-we-are-organized/board-executive-directors
   - https://www.iadb.org/en/who-we-are/how-we-are-organized/management-biographies
-- name: World Bank Group
+- name: International Bank for Reconstruction and Development
   urls:
-  - https://www.worldbank.org/en/about/leadership
   - https://www.worldbank.org/en/about/leadership/directors
+  - https://www.worldbank.org/en/about/leadership
+- name: International Development Association
+  urls:
+  - https://ida.worldbank.org/en/about/how-does-ida-work
+- name: International Finance Corporation
+  urls:
   - https://www.ifc.org/en/about/leadership
-  - https://www.miga.org/about/management
 - name: Islamic Development Bank
   urls:
   - https://www.isdb.org/leadership/board-of-executive-directors
   - https://www.isdb.org/leadership/senior-management
   - https://www.isdb.org/president
+- name: Multilateral Investment Guarantee Agency
+  urls:
+  - https://www.miga.org/board-directors
+  - https://www.miga.org/about/management
 - name: New Development Bank
   urls:
   - https://www.ndb.int/governance/boards/
@@ -64,10 +75,12 @@ subjects:
   urls:
   - https://coebank.org/en/about/structure-management/governor/
   - https://coebank.org/en/about/structure-management/administrative-council/
+  - https://coebank.org/en/about/structure-management/governing-board/
 - name: Nordic Investment Bank
   urls:
   - https://www.nib.int/about/executive-committee
   - https://www.nib.int/about/board-of-directors
+  - https://www.nib.int/about/board-of-governors
 - name: Black Sea Trade and Development Bank
   urls:
   - https://www.bstdb.org/governance
@@ -79,6 +92,7 @@ subjects:
   urls:
   - https://www.bcie.org/quienes-somos/presidencia
   - https://www.bcie.org/quienes-somos/directorio
+  - https://www.bcie.org/quienes-somos/asamblea-de-gobernadores
 - name: African Export-Import Bank
   urls:
   - https://www.afreximbank.com/our-bank/about-us/management-team/
@@ -99,9 +113,11 @@ subjects:
   - https://www.badea.org/leadership-our-president/
   - https://www.badea.org/leadership-top-management-team/
   - https://www.badea.org/board-of-directors-2/
+  - https://www.badea.org/board-of-governors/
 - name: OPEC Fund for International Development
   urls:
   - https://opecfund.org/who-we-are/governance/president
+  - https://opecfund.org/who-we-are/governance/governing-board
 - name: West African Development Bank
   urls:
   - https://www.boad.org/en/find-out-more/governance/
@@ -117,6 +133,7 @@ subjects:
 - name: International Centre for Settlement of Investment Disputes
   urls:
   - https://icsid.worldbank.org/about/secretariat
+  - https://icsid.worldbank.org/about/member-states/administrative-council
 - name: African Court on Human and Peoples' Rights
   urls:
   - https://www.african-court.org/afchpr/current-judge/
@@ -165,16 +182,9 @@ subjects:
   urls:
   - https://www.itlos.org/en/main/the-tribunal/members/
   - https://www.itlos.org/en/main/the-tribunal/the-president/
-- name: Iran–United States Claims Tribunal
-  urls:
-  - https://iusct.com/members/
-- name: Kosovo Specialist Chambers and Specialist Prosecutor's Office
-  urls:
-  - https://www.scp-ks.org/en/specialist-chambers/president
-  - https://www.scp-ks.org/en/specialist-chambers/chambers
-  - https://www.scp-ks.org/en/spo/specialist-prosecutor
 - name: Permanent Court of Arbitration
   urls:
+  - https://pca-cpa.org/en/about/introduction/administrative-council/
   - https://pca-cpa.org/en/about/introduction/secretary-general/
 - name: Residual Special Court for Sierra Leone
   urls:
@@ -191,6 +201,7 @@ subjects:
   - https://www.nspa.nato.int/about/leadership/nspa-general-manager
 - name: North Atlantic Treaty Organisation
   urls:
+  - https://www.nato.int/en/about-us/organization/nato-structure/nato-secretary-general
   - https://www.nato.int/en/about-us/organization/who-we-are
   - https://www.nato.int/en/about-us/organization/who-we-are/nato-deputy-secretaries-general
   - https://www.nato.int/en/about-us/organization/who-we-are/international-staff
@@ -212,12 +223,13 @@ subjects:
   - https://www.eea.europa.eu/en/about/who-we-are/governance
 - name: Bank of Central African States
   urls:
-  - https://www.beac.int/beac/gouvernement-de-banque/
   - https://www.beac.int/beac/organisation/
+  - https://www.beac.int/beac/gouvernement-de-banque/
 - name: Central Bank of West African States
   urls:
-  - https://www.bceao.int/fr/content/organigramme-de-la-bceao
+  - https://www.bceao.int/fr/content/le-conseil-dadministration
   - https://www.bceao.int/fr/content/le-gouverneur
+  - https://www.bceao.int/fr/content/organigramme-de-la-bceao
 - name: Eastern Caribbean Central Bank
   urls:
   - https://www.eccb-centralbank.org/board-of-directors
@@ -238,9 +250,9 @@ subjects:
   - https://www.eca.europa.eu/en/governance
 - name: European Insurance and Occupational Pensions Authority
   urls:
-  - https://www.eiopa.europa.eu/about/governance-structure/internal-organisation_en
   - https://www.eiopa.europa.eu/about/governance-structure/management-board_en
   - https://www.eiopa.europa.eu/about/governance-structure/board-supervisors_en
+  - https://www.eiopa.europa.eu/about/governance-structure/internal-organisation_en
 - name: European Securities and Markets Authority
   urls:
   - https://www.esma.europa.eu/about-esma/governance-structure/board-of-supervisors
@@ -250,13 +262,20 @@ subjects:
   urls:
   - https://www.consilium.europa.eu/en/general-secretariat/
   - https://www.consilium.europa.eu/en/general-secretariat/secretary-general/
+  - https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/
 - name: European Commission
   urls:
   - https://commission.europa.eu/about/organisation/college-commissioners_en
   - https://commissioners.ec.europa.eu/college-commissioners-2019-2024_en
 - name: European Council
   urls:
+  - https://www.consilium.europa.eu/en/european-council/members/
   - https://www.consilium.europa.eu/en/european-council/president/
+- name: European Parliament
+  urls:
+  - https://www.europarl.europa.eu/about-parliament/en/organisation-and-rules/organisation/political-bodies
+  - https://www.europarl.europa.eu/about-parliament/en/organisation-and-rules/organisation/the-president
+  - https://the-president.europarl.europa.eu/en
 - name: European Medicines Agency
   urls:
   - https://www.ema.europa.eu/en/about-us/who-we-are/management-board/members
@@ -300,7 +319,11 @@ subjects:
 - name: Eurasian Economic Union
   urls:
   - https://eec.eaeunion.org/en/comission/collegium-members/
-  - https://eec.eaeunion.org/en/comission/direction/chairman/
+  - https://eec.eaeunion.org/en/comission/collegium/
+- name: Codex Alimentarius Commission
+  urls:
+  - https://www.fao.org/fao-who-codexalimentarius/committees/executive-committee/about/en/
+  - https://www.fao.org/fao-who-codexalimentarius/committees/cac/about/en/
 - name: International Union for the Protection of New Varieties of Plants
   urls:
   - https://www.upov.int/en/about-upov/overview
@@ -309,9 +332,14 @@ subjects:
   - https://www.ctbto.org/our-mission/the-organization/the-provisional-technical-secretariat
   - https://www.ctbto.org/our-mission/the-organization/the-provisional-technical-secretariat/cv-dr-robert-floyd
   - https://www.ctbto.org/the-organization/the-provisional-technical-secretariat-pts/organizational-structure-of-the-pts/
+- name: European Atomic Energy Community
+  urls:
+  - https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/euratom-supply-agency-esa_en
+  - https://euratom-supply.ec.europa.eu/about-esa/governance/advisory-committee_en
 - name: Organisation for the Prohibition of Chemical Weapons
   urls:
   - https://www.opcw.org/about/technical-secretariat/leadership/director-general
+  - https://www.opcw.org/about-us/executive-council
   - https://www.opcw.org/about/technical-secretariat
 - name: Organization of Ibero-American States
   urls:
@@ -329,20 +357,73 @@ subjects:
 - name: International Renewable Energy Agency
   urls:
   - https://www.irena.org/About/Senior-Management
+  - https://www.irena.org/About/Institutional-Structure/Council
   - https://www.irena.org/Director-General
 - name: Organization of the Petroleum Exporting Countries
   urls:
   - https://www.opec.org/secretary-general.html
   - https://www.opec.org/office-of-the-secretary-general.html
+- name: Commission for the Conservation of Antarctic Marine Living Resources
+  urls:
+  - https://www.ccamlr.org/en/organisation/secretariat
+  - https://www.ccamlr.org/en/organisation/secretariat-structure
 - name: Convention on the Conservation of Migratory Species of Wild Animals
   urls:
   - https://www.cms.int/convention-bodies/secretariat/staff
   - https://www.cms.int/en/convention-bodies/secretariat/list-executive-secretaries-convention-migratory-species
   - https://www.cms.int/about/secretariat
+- name: General Fisheries Commission for the Mediterranean
+  urls:
+  - https://www.fao.org/gfcm/about/structure/en/
+- name: Indian Ocean Tuna Commission
+  urls:
+  - https://iotc.org/about-iotc/staff
+  - https://iotc.org/about-iotc/structure-commission
+- name: Inter-American Tropical Tuna Commission
+  urls:
+  - https://www.iattc.org/StaffENG.htm
+- name: International Commission for the Conservation of Atlantic Tunas
+  urls:
+  - https://www.iccat.int/en/staff.html
+  - https://www.iccat.int/en/secretariat.html
+  - https://www.iccat.int/en/organization.html
+- name: International Council for the Exploration of the Sea
+  urls:
+  - https://www.ices.dk/about-ICES/who-we-are/Pages/Bureau.aspx
+  - https://www.ices.dk/community/groups/Pages/COUNCIL.aspx
 - name: International Seabed Authority
   urls:
   - https://isa.org.jm/organs/the-secretariat/
   - https://isa.org.jm/the-secretary-general/
+  - https://isa.org.jm/organs/the-council/
+- name: International Whaling Commission
+  urls:
+  - https://iwc.int/commission/bureau
+  - https://iwc.int/secretariat
+  - https://iwc.int/commission/members
+- name: Lake Chad Basin Commission
+  urls:
+  - https://cblt.org/management-team/
+- name: Mekong River Commission
+  urls:
+  - https://www.mrcmekong.org/governance-and-organisational-structure/
+  - https://www.mrcmekong.org/senior-staff/
+  - https://www.mrcmekong.org/mrc-secretariat/
+- name: North Atlantic Salmon Conservation Organization
+  urls:
+  - https://nasco.int/about/council/
+  - https://nasco.int/about/
+- name: North-East Atlantic Fisheries Commission
+  urls:
+  - https://www.neafc.org/page/18
+- name: Northwest Atlantic Fisheries Organization
+  urls:
+  - https://www.nafo.int/About-us/Secretariat
+  - https://www.nafo.int/About-us/Commission
+- name: Organization for the Development of the Senegal River
+  urls:
+  - https://www.omvs.org/gouvernance/
+  - https://www.omvs.org/haut-commissariat/
 - name: Secretariat of the Antarctic Treaty
   urls:
   - https://www.ats.aq/e/secretariat.html
@@ -355,6 +436,18 @@ subjects:
   urls:
   - https://www.ramsar.org/about/bodies/secretariat
   - https://www.ramsar.org/about/bodies/secretary-general
+- name: South East Atlantic Fisheries Organisation
+  urls:
+  - http://www.seafo.org/Management
+  - http://www.seafo.org/SEAFO-Bodies/The-Secretariat/Staff-Regulations
+- name: South Pacific Regional Fisheries Management Organisation
+  urls:
+  - https://www.sprfmo.int/about/secretariat
+  - https://www.sprfmo.int/about/chairpersons
+- name: Western and Central Pacific Fisheries Commission
+  urls:
+  - https://www.wcpfc.int/about/who-we-are/secretariat-staff
+  - https://www.wcpfc.int/about/who-we-are/wcpfc-officeholders
 - name: Economic and Monetary Community of Central Africa
   urls:
   - https://cemac.int/commission/
@@ -362,9 +455,15 @@ subjects:
   urls:
   - https://www.uemoa.int/en/organes/commission
   - https://www.uemoa.int/en/message-from-the-president
+- name: African Union
+  urls:
+  - https://au.int/en/executivecouncil
+  - https://au.int/en/cpau
+  - https://au.int/en/auc-chairperson
 - name: African Union Commission
   urls:
   - https://au.int/en/commission
+  - https://au.int/en/auc-chairperson
   - https://au.int/en/cpauc6
 - name: Arab Maghreb Union
   urls:
@@ -395,17 +494,10 @@ subjects:
   - https://www.coe.int/en/web/about-us/structure
   - https://www.coe.int/en/web/secretary-general
   - https://www.coe.int/en/web/cm/about-cm
-- name: Organization for Security and Co-operation in Europe
-  urls:
-  - https://www.osce.org/leadership
-  - https://odihr.osce.org/odihr/director
 - name: League of Arab States
   urls:
   - http://www.lasportal.org/en/secretarygeneral/Pages/C-V.aspx
   - http://www.lasportal.org/en/aboutlas/Pages/AssistantGsCv.aspx
-- name: Commonwealth Secretariat
-  urls:
-  - https://thecommonwealth.org/secretary-general-shirley-botchwey
 - name: Economic Community of West African States
   urls:
   - https://www.ecowas.int/institutions/the-commission/
@@ -418,9 +510,6 @@ subjects:
   urls:
   - https://www.turkicstates.org/en/secretary-general
   - https://www.turkicstates.org/en/deputies-secretary-general
-- name: Union for the Mediterranean
-  urls:
-  - https://ufmsecretariat.org/who-we-are/structure/
 - name: East African Community
   urls:
   - https://www.eac.int/about-eac/leadership
@@ -428,7 +517,8 @@ subjects:
   - https://www.eac.int/the-secretariat
 - name: Economic Community of Central African States
   urls:
-  - https://www.ceeac-eccas.org/2026/01/25/une-nouvelle-impulsion-pour-la-gouvernance-de-la-ceeac/
+  - https://www.ceeac-eccas.org/2023/05/24/who-are-we/
+  - https://ceeac-eccas.org/2026/01/25/une-nouvelle-impulsion-pour-la-gouvernance-de-la-ceeac/
   - https://www.ceeac-eccas.org/2025/10/16/son-excellence-lambassadeur-dr-ezechiel-nibigira-president-de-la-commission-de-la-ceeac/
 - name: Gulf Cooperation Council
   urls:
@@ -447,6 +537,7 @@ subjects:
   - https://norden.org/en/information/key-individuals
 - name: Organisation of Eastern Caribbean States
   urls:
+  - https://www.oecs.org/who-we-are/our-structure
   - https://www.oecs.int/en/who-we-are/leadership
 - name: Organisation of Islamic Cooperation
   urls:
@@ -472,16 +563,18 @@ subjects:
 - name: African Regional Intellectual Property Organization
   urls:
   - https://www.aripo.org/about-us/management-team
+  - https://www.aripo.org/browse/about-us/governance
   - https://www.aripo.org/about-us/director-general
 - name: Hague Conference on Private International Law
   urls:
   - https://www.hcch.net/en/governance/team-of-the-permanent-bureau
+  - https://www.hcch.net/en/governance/council-on-general-affairs
 - name: Inter-American Commission on Human Rights
   urls:
   - https://www.oas.org/en/iachr/mandate/composition.asp
 - name: International Criminal Police Organization
   urls:
-  - https://www.interpol.int/en/Who-we-are/What-is-INTERPOL/Executive-Committee
+  - https://www.interpol.int/en/Who-we-are/Governance/Executive-Committee
   - https://www.interpol.int/en/Who-we-are/General-Secretariat/Secretary-General
 - name: International Institute for the Unification of Private Law
   urls:
@@ -499,8 +592,9 @@ subjects:
   - https://www.iom.int/organizational-structure
 - name: European Molecular Biology Laboratory
   urls:
-  - https://www.embl.org/governance/director-general/
   - https://www.embl.org/governance/
+  - https://www.embl.org/governance/embl-council/
+  - https://www.embl.org/governance/director-general/
 - name: European Organisation for the Exploitation of Meteorological Satellites
   urls:
   - https://www.eumetsat.int/who-we-are/management
@@ -508,6 +602,7 @@ subjects:
 - name: European Organization for Nuclear Research
   urls:
   - https://home.web.cern.ch/about/who-we-are/our-governance
+  - https://council.web.cern.ch/en
 - name: European Southern Observatory
   urls:
   - https://www.eso.org/public/about-eso/committees.html
@@ -521,6 +616,7 @@ subjects:
 - name: International Hydrographic Organization
   urls:
   - https://iho.int/en/iho-secretariat
+  - https://iho.int/en/iho-council
 - name: Organisation internationale de la Francophonie
   urls:
   - https://www.francophonie.org/la-secretaire-generale-de-la-francophonie-83
@@ -568,6 +664,7 @@ subjects:
   - https://www.benelux.int/en/contact-en/whos-who-at-the-general-secretariat-of-the-benelux-union/
 - name: Bureau International des Expositions
   urls:
+  - https://www.bie-paris.org/site/en/how-we-work/committee-members
   - https://www.bie-paris.org/site/en/how-we-work
 - name: Common Market for Eastern and Southern Africa
   urls:
@@ -582,11 +679,14 @@ subjects:
   urls:
   - https://www.efta.int/about-efta/managing-efta-secretariat-745
   - https://www.efta.int/about-efta/efta-secretariat/staff-directory
+  - https://www.efta.int/about-efta/efta-council
 - name: Latin American and Caribbean Economic System
   urls:
   - https://www.sela.org/embajador-lesly-david-inicia-funciones-como-nuevo-secretario-permanente-del-sela/
 - name: Latin American Integration Association
   urls:
+  - https://www.aladi.org/organizacion-institucional/comite-de-representantes/
+  - https://www.aladi.org/organizacion-institucional/
   - https://www.aladi.org/organizacion-institucional/secretaria-general/
 - name: Organisation for Economic Co-operation and Development
   urls:
@@ -597,6 +697,7 @@ subjects:
   urls:
   - https://www.sacu.int/office-of-the-executive-secretary
   - https://www.sacu.int/secretariat
+  - https://www.sacu.int/about-sacu/sacu-institutions/council-of-ministers
 - name: Southern Common Market
   urls:
   - https://www.mercosur.int/quienes-somos/secretaria/
@@ -615,6 +716,9 @@ subjects:
   urls:
   - https://www.eurocontrol.int/info/executive-body
   - https://www.eurocontrol.int/info/governing-bodies
+- name: Asia-Pacific Fishery Commission
+  urls:
+  - https://www.fao.org/apfic/about/the-commission--executive-committee--committees-and-working-parties/en
 - name: Food and Agriculture Organization of the United Nations
   urls:
   - https://www.fao.org/about/leadership/en/
@@ -634,6 +738,7 @@ subjects:
 - name: United Nations Educational, Scientific and Cultural Organization
   urls:
   - https://www.unesco.org/en/governance
+  - https://www.unesco.org/en/executive-board/members
   - https://www.unesco.org/en/executive-board
 - name: United Nations Institute for Training and Research
   urls:
@@ -648,6 +753,14 @@ subjects:
   - https://unu.edu/unu-leadership
   - https://unu.edu/about/unu-council
   - https://unu.edu/about/office-rector
+- name: Intergovernmental Oceanographic Commission of UNESCO
+  urls:
+  - https://www.ioc.unesco.org/en/ioc-officers
+  - https://www.ioc.unesco.org/en/secretariat
+- name: Intergovernmental Panel on Climate Change
+  urls:
+  - https://www.ipcc.ch/about/structure/
+  - https://www.ipcc.ch/secretariat/
 - name: Secretariat of the Convention on Biological Diversity
   urls:
   - https://www.cbd.int/secretariat/executive-secretary
@@ -668,6 +781,7 @@ subjects:
   urls:
   - https://wmo.int/about-wmo/governance
   - https://wmo.int/about-wmo/secretariat
+  - https://public.wmo.int/about-wmo/governance/executive-council
 - name: International Monetary Fund
   urls:
   - https://www.imf.org/en/about/senior-officials
@@ -687,6 +801,10 @@ subjects:
   urls:
   - https://www.unescwa.org/about/leadership
   - https://www.unescwa.org/about/committees/executive
+- name: United Nations Economic and Social Council
+  urls:
+  - https://ecosoc.un.org/en/about-us/bureau
+  - https://ecosoc.un.org/en/about-us/president
 - name: United Nations Economic Commission for Africa
   urls:
   - https://www.uneca.org/leadership
@@ -697,6 +815,8 @@ subjects:
   - https://unece.org/executive-secretary-1
 - name: United Nations Economic Commission for Latin America and the Caribbean
   urls:
+  - https://www.cepal.org/en/staff/jose-manuel-salazar-xirinachs
+  - https://www.cepal.org/en/about/former-executive-secretaries
   - https://www.cepal.org/en/about/directory
   - https://www.cepal.org/en/about/office-of-the-executive-secretary
 - name: United Nations Office for Project Services
@@ -706,7 +826,8 @@ subjects:
   - https://www.unops.org/about/our-story/leadership/executive-director
 - name: United Nations General Assembly
   urls:
-  - https://www.un.org/pga/
+  - https://www.un.org/en/ga/general/general.shtml
+  - https://www.un.org/en/ga/president/bios/
 - name: United Nations Secretariat
   urls:
   - https://www.un.org/sg/en/content/senior-management-group
@@ -763,6 +884,10 @@ subjects:
   urls:
   - https://www.unrwa.org/who-we-are/our-leadership
   - https://www.unrwa.org/executive-office
+- name: United Nations Volunteers
+  urls:
+  - https://www.unv.org/about-unv/who-we-are
+  - https://www.unv.org/toily-kurbanov-unv-executive-coordinator
 - name: World Food Programme
   urls:
   - https://www.wfp.org/governance-and-leadership
@@ -780,6 +905,10 @@ subjects:
   - https://www.ilo.org/about-ilo/ilo-director-general
   - https://www.ilo.org/ilo-governing-body
   - https://www.ilo.org/resource/other/officers-ilo-governing-body
+- name: United Nations Security Council
+  urls:
+  - https://main.un.org/securitycouncil/en/content/current-members
+  - https://main.un.org/securitycouncil/en/content/presidency
 - name: World Intellectual Property Organization
   urls:
   - https://www.wipo.int/en/web/about-wipo/activities-by-unit/management
@@ -788,6 +917,7 @@ subjects:
   urls:
   - https://www.epo.org/en/about-us/leadership-and-management/management-committee
   - https://www.epo.org/en/about-us/leadership-and-management/president
+  - https://www.epo.org/en/about-us/administrative-council/administrative-council/composition
 - name: International Telecommunication Union
   urls:
   - https://www.itu.int/en/about/Pages/leadership.aspx
@@ -796,6 +926,7 @@ subjects:
 - name: Universal Postal Union
   urls:
   - https://www.upu.int/en/universal-postal-union/about-upu/director-general
+  - https://www.upu.int/en/universal-postal-union/about-upu/bodies/council-of-administration
   - https://www.upu.int/en/Universal-Postal-Union/About-UPU/Bodies/International-Bureau/Directorates
 - name: United Nations Conference on Trade and Development
   urls:
@@ -815,7 +946,9 @@ subjects:
   urls:
   - https://www.icao.int/secretariat/secretarygeneral/pages/default.aspx
   - https://www.icao.int/about-icao/council/council-president
+  - https://www.icao.int/council-state-representatives
 - name: International Maritime Organization
   urls:
   - https://www.imo.org/en/About/Pages/Structure.aspx
   - https://www.imo.org/en/mediacentre/secretarygeneral/pages/default.aspx
+  - https://www.imo.org/en/OurWork/ERO/Pages/Council-Members.aspx
