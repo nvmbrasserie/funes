@@ -84,10 +84,6 @@ subjects:
 - name: Black Sea Trade and Development Bank
   urls:
   - https://www.bstdb.org/governance
-- name: CAF – Development Bank of Latin America and the Caribbean
-  urls:
-  - https://www.caf.com/en/who-we-are/organization-chart/executive-presidency/
-  - https://www.caf.com/en/who-we-are/vice-presidencies-and-management/
 - name: Central American Bank for Economic Integration
   urls:
   - https://www.bcie.org/quienes-somos/presidencia
@@ -100,11 +96,9 @@ subjects:
 - name: Eurasian Development Bank
   urls:
   - https://eabr.org/en/about/
-  - https://eabr.org/en/press/news/olzhas-bektenov-chairs-a-meeting-of-the-eurasian-development-bank-s-council/
 - name: Arab Monetary Fund
   urls:
   - https://www.amf.org.ae/en-us/about-us/who-we-are/governance-framework/
-  - https://prod.amf.org.ae/en-us/about-us/who-we-are/governance-framework/
 - name: Arab Fund for Economic and Social Development
   urls:
   - https://www.arabfund.org/introduction/organization-management/
@@ -124,9 +118,6 @@ subjects:
 - name: Eastern and Southern African Trade and Development Bank
   urls:
   - https://www.tdbgroup.org/our-leadership/
-- name: International Investment Bank
-  urls:
-  - https://iib.int/en/articles/traditional-meeting-in-the-format-of-the-ambassadors-club-of-the-iib-member-states-took-place-in-mos
 - name: International Bank for Economic Co-operation
   urls:
   - https://www.ibec.int/about/corporate/
@@ -156,7 +147,6 @@ subjects:
 - name: ECOWAS Community Court of Justice
   urls:
   - https://courtecowas.org/structure-of-court/college-of-judges/current-judges/
-  - https://courtecowas.org/ccj-news/new-judges-of-ecowas-court-sworn-in-for-four-year-non-renewable-term/
 - name: East African Court of Justice
   urls:
   - https://www.eacj.org/?page_id=1135
@@ -494,6 +484,11 @@ subjects:
   - https://www.coe.int/en/web/about-us/structure
   - https://www.coe.int/en/web/secretary-general
   - https://www.coe.int/en/web/cm/about-cm
+- name: Organization for Security and Co-operation in Europe
+  urls:
+  - https://www.osce.org/leadership
+  - https://www.osce.org/secretariat
+  - https://odihr.osce.org/odihr/director
 - name: League of Arab States
   urls:
   - http://www.lasportal.org/en/secretarygeneral/Pages/C-V.aspx
@@ -506,20 +501,11 @@ subjects:
 - name: Pacific Islands Forum
   urls:
   - https://forumsec.org/forum-secretariat-and-staff
-- name: Organization of Turkic States
-  urls:
-  - https://www.turkicstates.org/en/secretary-general
-  - https://www.turkicstates.org/en/deputies-secretary-general
 - name: East African Community
   urls:
   - https://www.eac.int/about-eac/leadership
   - https://www.eac.int/leadership-team
   - https://www.eac.int/the-secretariat
-- name: Economic Community of Central African States
-  urls:
-  - https://www.ceeac-eccas.org/2023/05/24/who-are-we/
-  - https://ceeac-eccas.org/2026/01/25/une-nouvelle-impulsion-pour-la-gouvernance-de-la-ceeac/
-  - https://www.ceeac-eccas.org/2025/10/16/son-excellence-lambassadeur-dr-ezechiel-nibigira-president-de-la-commission-de-la-ceeac/
 - name: Gulf Cooperation Council
   urls:
   - https://www.gcc-sg.org/en/GeneralSecretariat/SecretaryGeneral/Pages/default.aspx
@@ -550,9 +536,6 @@ subjects:
 - name: Pan-African Parliament
   urls:
   - https://pap.au.int/en/bureau
-- name: South Asian Association for Regional Cooperation
-  urls:
-  - https://www.saarc-sec.org/
 - name: Southern African Development Community
   urls:
   - https://www.sadc.int/secretariat
