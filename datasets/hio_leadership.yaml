@@ -151,11 +151,6 @@ subjects:
   urls:
   - https://www.eacj.org/?page_id=1135
   - https://www.eacj.org/?page_id=4567
-- name: Extraordinary Chambers in the Courts of Cambodia
-  urls:
-  - https://www.eccc.gov.kh/en/organisation/chambers
-  - https://www.eccc.gov.kh/en/organisation/office-of-co-investigating-judges
-  - https://www.eccc.gov.kh/en/organisation/administration/court-management
 - name: International Court of Justice
   urls:
   - https://www.icj-cij.org/current-members
@@ -306,14 +301,6 @@ subjects:
   urls:
   - https://www.eulisa.europa.eu/about-us/organisation/top-management
   - https://www.eulisa.europa.eu/about-us/organisation/eu-lisa-management-board
-- name: Eurasian Economic Union
-  urls:
-  - https://eec.eaeunion.org/en/comission/collegium-members/
-  - https://eec.eaeunion.org/en/comission/collegium/
-- name: Codex Alimentarius Commission
-  urls:
-  - https://www.fao.org/fao-who-codexalimentarius/committees/executive-committee/about/en/
-  - https://www.fao.org/fao-who-codexalimentarius/committees/cac/about/en/
 - name: International Union for the Protection of New Varieties of Plants
   urls:
   - https://www.upov.int/en/about-upov/overview
@@ -353,10 +340,6 @@ subjects:
   urls:
   - https://www.opec.org/secretary-general.html
   - https://www.opec.org/office-of-the-secretary-general.html
-- name: Commission for the Conservation of Antarctic Marine Living Resources
-  urls:
-  - https://www.ccamlr.org/en/organisation/secretariat
-  - https://www.ccamlr.org/en/organisation/secretariat-structure
 - name: Convention on the Conservation of Migratory Species of Wild Animals
   urls:
   - https://www.cms.int/convention-bodies/secretariat/staff
@@ -391,18 +374,11 @@ subjects:
   - https://iwc.int/commission/bureau
   - https://iwc.int/secretariat
   - https://iwc.int/commission/members
-- name: Lake Chad Basin Commission
-  urls:
-  - https://cblt.org/management-team/
 - name: Mekong River Commission
   urls:
   - https://www.mrcmekong.org/governance-and-organisational-structure/
   - https://www.mrcmekong.org/senior-staff/
   - https://www.mrcmekong.org/mrc-secretariat/
-- name: North Atlantic Salmon Conservation Organization
-  urls:
-  - https://nasco.int/about/council/
-  - https://nasco.int/about/
 - name: North-East Atlantic Fisheries Commission
   urls:
   - https://www.neafc.org/page/18
@@ -509,8 +485,6 @@ subjects:
 - name: Gulf Cooperation Council
   urls:
   - https://www.gcc-sg.org/en/GeneralSecretariat/SecretaryGeneral/Pages/default.aspx
-  - https://www.gcc-sg.org/en-us/AboutGCC/Pages/OrganizationalStructure.aspx
-  - https://www.gcc-sg.org/en-us/GeneralSecretariat/Pages/default.aspx
 - name: Intergovernmental Authority on Development
   urls:
   - https://igad.int/seniormanagement/
@@ -543,11 +517,6 @@ subjects:
   urls:
   - https://oapi.int/en/organs/general-management/
   - https://oapi.int/en/organs/
-- name: African Regional Intellectual Property Organization
-  urls:
-  - https://www.aripo.org/about-us/management-team
-  - https://www.aripo.org/browse/about-us/governance
-  - https://www.aripo.org/about-us/director-general
 - name: Hague Conference on Private International Law
   urls:
   - https://www.hcch.net/en/governance/team-of-the-permanent-bureau
@@ -585,7 +554,6 @@ subjects:
 - name: European Organization for Nuclear Research
   urls:
   - https://home.web.cern.ch/about/who-we-are/our-governance
-  - https://council.web.cern.ch/en
 - name: European Southern Observatory
   urls:
   - https://www.eso.org/public/about-eso/committees.html
@@ -736,10 +704,6 @@ subjects:
   - https://unu.edu/unu-leadership
   - https://unu.edu/about/unu-council
   - https://unu.edu/about/office-rector
-- name: Intergovernmental Oceanographic Commission of UNESCO
-  urls:
-  - https://www.ioc.unesco.org/en/ioc-officers
-  - https://www.ioc.unesco.org/en/secretariat
 - name: Intergovernmental Panel on Climate Change
   urls:
   - https://www.ipcc.ch/about/structure/
@@ -856,13 +820,6 @@ subjects:
   - https://unhabitat.org/about-us/leadership
   - https://unhabitat.org/our-secretariat
   - https://unhabitat.org/governance/executive-board
-- name: United Nations Office for Disaster Risk Reduction
-  urls:
-  - https://www.undrr.org/our-work/our-team
-  - https://www.undrr.org/our-team/kamal-kishore-biography
-- name: United Nations Office for the Coordination of Humanitarian Affairs
-  urls:
-  - https://www.unocha.org/our-leadership
 - name: United Nations Relief and Works Agency for Palestine Refugees in the Near East
   urls:
   - https://www.unrwa.org/who-we-are/our-leadership
@@ -875,10 +832,6 @@ subjects:
   urls:
   - https://www.wfp.org/governance-and-leadership
   - https://executiveboard.wfp.org/about-board
-- name: Office of the United Nations High Commissioner for Human Rights
-  urls:
-  - https://www.ohchr.org/en/about-us/global-leadership-team
-  - https://www.ohchr.org/en/about-us/high-commissioner
 - name: United Nations Office on Drugs and Crime
   urls:
   - https://www.unodc.org/unodc/en/about-unodc/senior-leadership.html
